@@ -44,9 +44,7 @@ public class MainActivity extends AppCompatActivity implements OnActionListner {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         onLoginSelected();
-        /*clientThread = new ClientThread(this);
-        thread = new Thread(clientThread);
-        thread.start();*/
+
     }
 
     @Override
