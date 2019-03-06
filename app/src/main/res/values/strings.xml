@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">DriverAssistClient</string>
+    <string name="app_version" formatted="false">Version %s</string>
+    <string name="password_is_required">Password is required</string>
+    <string name="enter_valid_username">Enter valid Username</string>
+    <string name="login_success">login success</string>
+    <string name="problem_in_login">Problem in login</string>
+    <string name="register_success">Registered Successfully</string>
+    <string name="username">Username</string>
+    <string name="my_account">My Account</string>
+    <string name="add_device">Add Device</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="battery_level">Battery Level</string>
+    <string name="operator">Operator</string>
+    <string name="firmware">Firmware</string>
+    <string name="add">Add</string>
+    <string name="internet">Internet</string>
+    <string name="searching_nearby_devices">searching nearby devices</string>
+    <string name="wifi_is_disabled_enabling_it">WiFi is disabled.Enabling it...</string>
+    <string name="connecting_to" formatted="false">Connecting to %s</string>
+    <string name="could_not_connect_to" formatted="false">Could not connect to %s</string>
+    <string name="not_a_valid_device">Not a valid Driver Assist device</string>
+    <string name="get_device_data_url" formatted="false">http://%s:8080</string>
+    <string name="can_not_connect_to_device">Can not connect to Device.</string>
+    <string name="set_device_data_url" formatted="false">http://%s:8080/setdata</string>
+    <string name="send_rotation_data_url" formatted="false">http://%s:8080/setRotationData</string>
+    <string name="send_stop_command_url" formatted="false">http://%s:8080/sendStopCommand</string>
+    <string name="could_not_set_data">Could not set the Data.</string>
+    <string name="values_set">Data saved successfully.</string>
+    <string name="front_camera_not_available">Front Camera not available</string>
+    <string name="real_camera">Real Camera</string>
+    <!--<string name="rtsp_url" formatted="false">rtsp://%s:1935/live</string>-->
+    <string name="rtsp_url" formatted="false">rtsp://%s:8086</string>
+    <string name="audio_prompt">Audio Prompt</string>
+
+    <string name="get_status_connection" formatted="false">http://%s:8080/getStatus</string>
+    <string name="not_a_registered_user">Not a registered User?</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="login_username">UserName</string>
+    <string name="driverassist">DriverAssist</string>
+
+</resources>
