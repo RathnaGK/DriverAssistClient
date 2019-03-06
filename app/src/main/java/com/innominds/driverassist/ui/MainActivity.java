@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity implements OnActionListner {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         onLoginSelected();
+        //nischitha
 
     }
 
